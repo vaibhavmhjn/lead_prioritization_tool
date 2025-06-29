@@ -1,0 +1,23 @@
+Company,Industry,Owner Name,Owner Email,Revenue,Employees Count
+Company 1,,Bob Smith,bob@example.com,,0.0
+Company 2,HealthTech,Bob Smith,,$10M,0.0
+Company 3,Cloud Computing,Alice Johnson,,$10M,0.0
+Company 4,,Diana Lee,,$10M,
+Company 5,Retail,Alice Johnson,,,40.0
+Company 6,Cloud Computing,Diana Lee,,$10M,300.0
+Company 7,Cloud Computing,Bob Smith,bob@example.com,$1.2M,0.0
+Company 8,,Alice Johnson,bob@example.com,,150.0
+Company 9,FinTech,,contact@company.com,$1.2M,0.0
+Company 10,Retail,Charlie Kim,,,150.0
+Company 11,,Diana Lee,bob@example.com,$10M,150.0
+Company 12,Retail,Charlie Kim,contact@company.com,$1.2M,0.0
+Company 13,Retail,Charlie Kim,,,
+Company 14,Cloud Computing,Alice Johnson,alice@example.com,$45M,150.0
+Company 15,HealthTech,Charlie Kim,contact@company.com,$10M,150.0
+Company 16,EdTech,Grace Lee,grace.lee@company16.com,$5M,25.0
+Company 17,FinTech,Raj Patel,raj.patel@company17.com,$20M,60.0
+Company 18,CleanTech,Maria Gonzalez,maria.g@company18.com,$8M,45.0
+Company 19,AI & ML,Anita Desai,anita.d@company19.com,$6M,30.0
+Company 20,HealthTech,Tom Harris,tom.harris@company20.com,$12M,80.0
+Company 21,Logistics,Peter Jones,peter.jones@company21.com,$30M,150.0
+Company 22,Retail,Jessica Wu,jessica.wu@company22.com,$14M,70.0
