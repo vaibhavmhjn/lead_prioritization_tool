@@ -1,4 +1,4 @@
-# LeadPrioritiser-Scraper Dashboard
+# LeadGen Prioritiser-Scraper Dashboard
 
 A comprehensive Streamlit app for discovering, enriching, analyzing, and managing sales leads. Designed for teams of all sizes to streamline lead generation and outreach.
 
